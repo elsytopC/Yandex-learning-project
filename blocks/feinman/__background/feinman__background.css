@@ -1,0 +1,10 @@
+.feinman__background {
+  position: absolute;
+  background-image: url(../../../images/feynman.png);
+  height: 637px;
+  width: 867px;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
