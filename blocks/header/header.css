@@ -13,5 +13,6 @@
   display: grid;
   position: relative;
   margin-bottom: 100px;
+  overflow: hidden;
 }
 
