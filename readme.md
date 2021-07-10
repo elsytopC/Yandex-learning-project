@@ -4,4 +4,6 @@
 
 Для выполнения данного проекта не использовался JS. Вся анимация выполнена на HTML5/CSS3.
 
+[How to Learn Project](https://elsytopc.github.io/Yandex-learning-project/)
+
 
